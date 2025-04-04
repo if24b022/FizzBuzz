@@ -4,6 +4,10 @@ using namespace std;
 
 int main()
 {
-    for(int i = 0; i <= 150; i++)
+    for(int i = 0; i <= 150; i++){
+        if(i % 15 == 0){
+            cout << "FizzBuzz\n";
+        }
+    }
     return 0;
 }
