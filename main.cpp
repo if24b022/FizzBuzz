@@ -4,7 +4,7 @@
 using namespace std;
 
 void fizzbuzz(int zahl){
-
+    string x;
 }
 
 int main()
