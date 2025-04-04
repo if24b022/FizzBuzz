@@ -9,6 +9,8 @@ void fizzbuzz(int zahl){
         cout << "Fizz\n";
     }else if(zahl % 5 == 0){
         cout << "Buzz\n";
+    }else{
+        cout;
     }
 }
 
