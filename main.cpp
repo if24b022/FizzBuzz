@@ -3,7 +3,9 @@
 using namespace std;
 
 string fizzbuzz(int zahl){
-
+    if(zahl % 3 == 0){
+        return "FizzBuzz";
+    }
 }
 
 int main()
