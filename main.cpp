@@ -9,15 +9,7 @@ void fizzbuzz(int zahl){
 int main()
 {
     for(int i = 0; i <= 150; i++){
-        if(i % 15 == 0){
-            cout << "FizzBuzz\n";
-        }else if(i % 3 == 0){
-            cout << "Fizz\n";
-        }else if(i % 5 == 0){
-            cout << "Buzz\n";
-        }else{
-            cout << i << "\n";
-        }
+        fizzbuzz(i);
     }
     return 0;
 }
