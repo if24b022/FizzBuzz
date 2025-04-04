@@ -1,17 +1,10 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 void fizzbuzz(int zahl){
-    if(zahl % 15 == 0){
-        cout << "FizzBuzz\n";
-    }else if(zahl % 3 == 0){
-        cout << "Fizz\n";
-    }else if(zahl % 5 == 0){
-        cout << "Buzz\n";
-    }else{
-        cout << zahl << "\n";
-    }
+
 }
 
 int main()
