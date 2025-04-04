@@ -13,6 +13,7 @@ string fizzbuzz(int zahl){
     if(zahl % 5 == 0){
         return "Buzz";
     }
+    return to_string(zahl);
 }
 
 int main()
