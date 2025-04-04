@@ -5,6 +5,8 @@ using namespace std;
 void fizzbuzz(int zahl){
     if(zahl % 15 == 0){
         cout << "FizzBuzz\n";
+    }else {
+        cout;
     }
 }
 
