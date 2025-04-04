@@ -1,10 +1,9 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
-void fizzbuzz(int zahl){
-    string x;
+int fizzbuzz(int zahl){
+
 }
 
 int main()
