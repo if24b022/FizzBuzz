@@ -10,6 +10,9 @@ string fizzbuzz(int zahl){
     if(zahl % 3 == 0){
         return "Fizz";
     }
+    if(zahl % 5 == 0){
+        return "Buzz";
+    }
 }
 
 int main()
