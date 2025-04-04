@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void fizzbuzz(int zahl){
+
+}
+
 int main()
 {
     for(int i = 0; i <= 150; i++){
