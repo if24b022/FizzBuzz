@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int fizzbuzz(int zahl){
+string fizzbuzz(int zahl){
 
 }
 
