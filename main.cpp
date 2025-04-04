@@ -11,6 +11,8 @@ int main()
             cout << "Fizz\n";
         }else if(i % 5 == 0){
             cout << "Buzz\n";
+        }else{
+            cout;
         }
     }
     return 0;
