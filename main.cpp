@@ -8,7 +8,7 @@ int main()
         if(i % 15 == 0){
             cout << "FizzBuzz\n";
         }else {
-            cout;
+            cout << "Fizz\n";
         }
     }
     return 0;
