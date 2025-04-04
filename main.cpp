@@ -7,8 +7,8 @@ void fizzbuzz(int zahl){
         cout << "FizzBuzz\n";
     }else if(zahl % 3 == 0){
         cout << "Fizz\n";
-    }else {
-        cout;
+    }else if(zahl % 5 == 0){
+        cout << "Buzz\n";
     }
 }
 
