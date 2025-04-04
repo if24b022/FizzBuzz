@@ -9,6 +9,8 @@ int main()
             cout << "FizzBuzz\n";
         }else if(i % 3 == 0){
             cout << "Fizz\n";
+        }else {
+            cout;
         }
     }
     return 0;
