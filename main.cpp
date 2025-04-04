@@ -12,7 +12,7 @@ int main()
         }else if(i % 5 == 0){
             cout << "Buzz\n";
         }else{
-            cout;
+            cout << i << "\n";
         }
     }
     return 0;
